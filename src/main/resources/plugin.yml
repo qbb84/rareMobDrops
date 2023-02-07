@@ -1,0 +1,5 @@
+name: BountyHead
+version: '${project.version}'
+main: me.rewind.main
+api-version: 1.19
+prefix: [ BH ]
