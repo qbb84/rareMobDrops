@@ -26,14 +26,6 @@ package me.rewind;
         import io.netty.channel.ChannelHandlerContext;
         import io.netty.channel.ChannelPromise;
 
-/**
- * A Spigot util to easily make entities glow.
- * <p>
- * <b>1.17 -> 1.19.3</b>
- *
- * @version 1.1.3
- * @author SkytAsul
- */
 public class GlowingEntities implements Listener {
 
     private Map<Player, PlayerData> glowing;
